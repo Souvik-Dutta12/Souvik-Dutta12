@@ -39,7 +39,12 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
-
+<br/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dutta12&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souvik-Dutta12&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages Card" width="48%" />
+  </div>
+  
 <br/>
 <img src="https://raw.githubusercontent.com/Sowdarjya/Sowdarjya/output/snake.svg" alt="Snake animation" align="center" />
 

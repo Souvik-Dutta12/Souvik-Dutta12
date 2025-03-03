@@ -40,6 +40,11 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
+<br/>
+<img src="https://raw.githubusercontent.com/Sowdarjya/Sowdarjya/output/snake.svg" alt="Snake animation" align="center" />
+
+
+
 ###
 
 <h4 align="left">Connect with me :</h4>

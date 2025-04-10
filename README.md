@@ -1,67 +1,46 @@
-<h1 align="center">Hi 👋, I'm Souvik Dutta.</h1>
-
-###
-
-<h3 align="center">A passionate MERNstack developer from India</h3>
-
-###
-
-<h4 align="left">Languages and tools :</h4>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-<br/>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dutta12&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souvik-Dutta12&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages Card" width="48%" />
-  </div>
-  
-<br/>
-<img src="https://raw.githubusercontent.com/Sowdarjya/Sowdarjya/output/snake.svg" alt="Snake animation" align="center" />
-
-
-
-###
-
-<h4 align="left">Connect with me :</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="39" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="39" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="39" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="39" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="39" alt="telegram logo"  />
+<div align="center">
+   <h1>Hi there, I'm Souvik Dutta</h1>
 </div>
 
-###
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Backend+Developer;MERN+Stack+Developer;)
+
+# 💫 About Me:  
+🥰 You can call me Suvo  
+🔭 I’m currently working on **Ecommerce Website**  
+💬 Ask me about **MERN**  
+
+<!--![](https://github-stats-alpha.vercel.app/api?username=subh05sus&cc=000&tc=fff&ic=fff&bc=000 "profile")-->
+
+---
+
+## 🌐 Socials:
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subh05sus_) --> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/souvik-dutta-39158732b)  
+<!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SubhadipSuDi)-->  
+
+---
+
+# 💻 Tech Stack:
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,html,css,py,java,postman,figma,git,vscode,js,nodejs,react,nextjs,mongodb,tailwind,threejs,ts,vercel,vite" />
+</div>
+
+---
+<!--
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subh05sus&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=subh05sus&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SUBH05SUS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=dracula&hide_border=false" height="200" alt="languages graph" />
+</div>
+
+---
+
+## 🎵 Spotify Recently Played
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu&unique={true|1|on|yes})
+
+--- -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
